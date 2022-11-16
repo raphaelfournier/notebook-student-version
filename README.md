@@ -17,3 +17,7 @@ the script:
 - EXCLUSION_KEYWORDS, a list of keywords which identify the cells to exclude
 - STUDENT_SUFFIX, to suffix the filename of the original notebook:
 test.ipynb produces test-students.ipynb.
+
+## Acknowledgments
+                                                             
+This script is a (modified) subset of a larger script created by [@JosselinNoirel](https://github.com/JosselinNoirel).
